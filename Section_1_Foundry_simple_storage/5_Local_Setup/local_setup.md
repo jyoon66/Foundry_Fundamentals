@@ -1,0 +1,3 @@
+To maintain a clear terminal, especiall when it becomes cluttered, you can type the command "clear" and press Enter. Alternatively, use the shortcut `command + k` on a Mac or `control + k` on Linux or Windows.
+
+It's important to understand the difference between the `trash can` and the `x` icons in your VS code terminal: clicking the `x` icon it will *hide/show the terminal*, keeping all previous content visible when reopened. Clicking on the `trash can` icon instead, *terminates the current terminal session*. When you reopen it, you'll see a fresh, empty session.
